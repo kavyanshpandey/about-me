@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+em-img2fig = src:Image2FigurePlugin

@@ -1,0 +1,65 @@
+site_name: Kavyansh Pandey
+site_author: Kavyansh Pandey
+site_description: About Kavyansh's and his dev life
+# site_url: 
+copyright: Copyright &copy; 2024 Kavyansh Pandey
+
+# Repository information
+repo_name: About-Me
+repo_url: https://github.com/kavyanshpandey/about-me
+
+theme:
+  features:
+    - content.code.copy
+  name: 'material'
+  favicon: icons/logokp.jpeg
+  logo: icons/logokp.svg
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@KavyanshPandey
+      
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/KavyanshPandey
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kavyanshpandey/
+
+   
+plugins:
+  - search
+  - em-img2fig
+
+markdown_extensions:
+  - pymdownx.superfences
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+nav:
+  - About me: index.md
+  - Work Experience: WorkExperience.md
+  # - Contributions Maps: Contributions.md
+  - Skills: skills.md
+  - Open Source: OpenSource.md
+  - Certifications & Achievements: certifications.md
+  - Hands on [Projects]: Projects.md
+  - Articles: articles.md
+  - Community Events and Activities: events.md
