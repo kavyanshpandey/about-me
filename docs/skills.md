@@ -10,6 +10,7 @@ Here are the skills I've honed through my career, leveraging various technologie
 ### <b>Advanced Skills</b>
 - Generative AI
 - Large Language Models
+- RAG (Retreival Augumented Generation)
 - NLP (Natural Language Processing)
 - Algorithms
 - Data Structures

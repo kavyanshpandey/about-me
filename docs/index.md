@@ -5,7 +5,7 @@ Hey there! 👋🏻 Welcome to my space, it's Kavyansh's domain! Here, I share i
 Let's dive into the world of coding together! 🚀
 
 <!-- ![Me at AWS summit, New Delhi](../img/Main.jpeg) -->
-<img src="../img/Main.jpeg" alt="Me at AWS summit, New Delhi" width="400"/>
+<img src="../img/main.jpeg" alt="Me at AWS summit, New Delhi" width="400"/>
 
 
 ## <b>💻 "Developer's Toolbox: Cheat Sheet I use in my dev life" 🛠️</b>
